@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 Helping you with :  **Node js , React js **
+- 🌱 Helping you with :  Node js , React js 
 
 - 💬 Ask me about **MERN stack**
 
