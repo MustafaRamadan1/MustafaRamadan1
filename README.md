@@ -69,7 +69,7 @@ I’m currently working as a **Backend Developer (Node.js)**, focusing on buildi
 - **Sedrat Al-Montaha – Hajj & Umrah Booking API**  
   Backend system for trip package listings and reservation management with JWT authentication, secure booking workflows, and payment processing integration.
 
-> 🔗 More backend projects available on my GitHub profile.
+> 🔗 More backend projects available on my [GitHub repositories](https://github.com/mustafaramadan165?tab=repositories).
 
 ---
 
