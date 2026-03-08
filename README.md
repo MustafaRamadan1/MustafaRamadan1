@@ -69,7 +69,7 @@ I’m currently working as a **Backend Developer (Node.js)**, focusing on buildi
 - **Sedrat Al-Montaha – Hajj & Umrah Booking API**  
   Backend system for trip package listings and reservation management with JWT authentication, secure booking workflows, and payment processing integration.
 
-> 🔗 More backend projects available on my [GitHub repositories](https://github.com/mustafaramadan165?tab=repositories).
+> 🔗 More backend projects available on my [GitHub repositories](https://github.com/MustafaRamadan1?tab=repositories).
 
 ---
 
@@ -86,10 +86,10 @@ I’m currently working as a **Backend Developer (Node.js)**, focusing on buildi
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathymhmedx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=mustafaramadan1&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fathymhmedx&theme=dark&hide_border=false)
+<img src="https://streak-stats.demolab.com?user=mustafaramadan1&theme=tokyonight&hide_border=true" height="165" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fathymhmedx&theme=dark&layout=compact&hide_border=false&include_all_commits=false&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaramadan1&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
