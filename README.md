@@ -56,16 +56,20 @@ I’m currently working as a **Backend Developer (Node.js)**, focusing on buildi
 ---
 
 ## 🚀 Projects & Achievements
-- **[Express TypeScript API Template – Clean Architecture Boilerplate](https://github.com/fathymhmedx/express-ts-api-template)**  
-  Production-ready REST API template with database-agnostic repository layer, dependency injection, validation, and Git workflow.  
 
-- **[E-Commerce RESTful API](https://github.com/fathymhmedx/nodejs-ecommerce-api-v1)**  
-  Modular feature-based architecture with JWT authentication, Redis caching, Stripe integration, and full commerce features.  
+- **[Hof Al Manzel – Service Booking Platform (Live System)](https://houfalmanazel.com/)**  
+  Production-ready booking platform serving 100+ users with multi-role access (Admin, Technician, User), secure payment & refund workflows, real-time notifications (Socket.io), AR/EN localization, and hardened API security (JWT, Helmet, rate limiting, Joi validation).
 
-- **[Obstructive Sleep Apnea Monitoring System – Backend API](https://github.com/fathymhmedx/backend_OPHIUC)**  
-  Real-time OSA monitoring with Firebase + Socket.IO, AI-driven health reports, layered architecture, JWT security, and Swagger documentation.  
+- **Orca E-Commerce Backend API**  
+  Scalable e-commerce REST API featuring JWT + OTP authentication, product & catalog management, cart and order workflows, and secure Paymob payment integration with callback handling. Delivered as a production-ready MVP backend.
 
-> 🔗 More projects on my [GitHub](https://github.com/fathymhmedx)
+- **Ishrahly – Educational Platform Backend**  
+  Course and lesson management system supporting free, coupon-based, and paid enrollments with protected purchased content, role-based access control, and integrated Paymob payments.
+
+- **Sedrat Al-Montaha – Hajj & Umrah Booking API**  
+  Backend system for trip package listings and reservation management with JWT authentication, secure booking workflows, and payment processing integration.
+
+> 🔗 More backend projects available on my GitHub profile.
 
 ---
 
