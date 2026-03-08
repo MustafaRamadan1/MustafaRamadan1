@@ -84,12 +84,12 @@ I’m currently working as a **Backend Developer (Node.js)**, focusing on buildi
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafaramadan1&show_icons=true&theme=github_dark&hide_border=true)
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mustafaramadan1&show_icons=true&theme=github_dark&hide_border=true" height="170" />
+![GitHub Streak](https://streak-stats.demolab.com?user=mustafaramadan1&theme=github-dark&hide_border=true)
 
-<img src="https://streak-stats.demolab.com?user=mustafaramadan1&theme=github-dark&hide_border=true" height="170" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaramadan1&layout=compact&theme=github_dark&hide_border=true)
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mustafaramadan1&layout=compact&theme=github_dark&hide_border=true" height="170" />
-
-</div>
+</p>
