@@ -86,10 +86,10 @@ I’m currently working as a **Backend Developer (Node.js)**, focusing on buildi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mustafaramadan1&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=mustafaramadan1&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="170" />
 
-<img src="https://streak-stats.demolab.com?user=mustafaramadan1&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://streak-stats.demolab.com?user=mustafaramadan1&theme=transparent&hide_border=true" height="170" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaramadan1&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaramadan1&layout=compact&theme=transparent&hide_border=true" height="170" />
 
 </div>
