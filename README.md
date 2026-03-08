@@ -82,14 +82,10 @@ I’m currently working as a **Backend Developer (Node.js)**, focusing on buildi
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <p align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mustafaramadan1&show_icons=true&theme=github_dark&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=mustafaramadan1&theme=github-dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafaramadan1&layout=compact&theme=github_dark&hide_border=true)
 
 </p>
